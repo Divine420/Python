@@ -1,0 +1,1 @@
+Collection of Python scripts that will grow with my interests & programming level, will be well annotated & neatly laid out so those learning, like me, can follow along. I know, personally, functional code snippets are easier & better learning tools than paragraphs of documentation & definitions.
