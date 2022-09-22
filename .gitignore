@@ -1,0 +1,3 @@
+# ignore readme, text files
+.md
+.txt
